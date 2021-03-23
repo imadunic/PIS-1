@@ -8,3 +8,5 @@ namespace ConsoleApp2
     {
     }
 }
+
+//neka promjena u newClass
