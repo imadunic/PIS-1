@@ -10,6 +10,7 @@ namespace ConsoleApp2
             Console.WriteLine("Novo");
         }
     }
+
 }
 
 //neka promjena na projektu
