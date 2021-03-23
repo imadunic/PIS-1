@@ -5,6 +5,9 @@ using System.Text;
 namespace ConsoleApp2
 {
     class NewClass
-    {
+    {void funkcija()
+        {
+            Console.WriteLine("Ovo je metoda.");
+        }
     }
 }
